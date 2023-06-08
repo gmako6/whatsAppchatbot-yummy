@@ -33,7 +33,7 @@ app.post("/incoming", (req, res) => {
 
   res.set("Content-Type", "text/plain");
   res.send("OK");
-  //res.sendStatus(200);
+  res.json(message);
 });
 
 //Process user messages.
