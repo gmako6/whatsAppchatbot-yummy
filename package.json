@@ -1,0 +1,24 @@
+{
+  "name": "whatsappchatbot-yummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmako6/whatsAppchatbot-yummy.git"
+  },
+  "keywords": [],
+  "author": "GMako6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmako6/whatsAppchatbot-yummy/issues"
+  },
+  "homepage": "https://github.com/gmako6/whatsAppchatbot-yummy#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.11.2"
+  }
+}
